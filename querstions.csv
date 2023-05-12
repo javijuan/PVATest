@@ -1,0 +1,3 @@
+How can I troubleshoot audio? Audio issues. ,Check to make sure that excessive background or personal computer noise are reduced or eliminated.
+What if the volume is low? Volume is low. ,"First, make sure the volume on your headset is all the way to 100. Also look at the volume of the computer itself outside of AWS as well as inside of AWS."
+Whys is Avaya OneX not logging in?,"Make sure you are using your assigned extension in Avaya OneX. If you are, you can close Avaya and run the Agent Configuration for your site again."
