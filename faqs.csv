@@ -1,6 +1,0 @@
-Question,Answer
-How can I troubleshoot audio?,"Check to make sure that excessive background or personal computer noise are reduced or eliminated. If you hear a hum, and you are using a laptop, ensure that the transformer part of the power supply cord is not near the system. You can confirm the interference by unplugging the laptop.
-
-"
-What if the volume is low?,"First, make sure the volume on your headset is all the way to 100. Also look at the volume of the computer itself outside of AWS as well as inside of AWS. It is a good practice to keep the volume at 100 pecent on the laptop and around 75% inside of AWS."
-Why my avaya does not want to log in?,"Make sure you are using your assigned extension in Avaya OneX. If you are, you can close Avaya and run the Agent Configuration for your site again. Please note your Extension and Agent (ACD) number before running the configuration as you will need to enter it again."
